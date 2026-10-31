@@ -1,0 +1,48 @@
+{
+  "antiFeatures": {},
+  "apksigner": "/home/altyb/Android/Sdk/build-tools/36.1.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/altyb/.local/bin/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1793455810714,
+  "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "58cdb82f70a18ece01eb5d39e96afabea4dda301",
+    "isDirty": true,
+    "modifiedFiles": [
+      "publish.sh",
+      "repo/dev.altayeb.hudhud_1.3.0.apk"
+    ],
+    "untrackedFiles": [
+      "repo/dev.altayeb.hudhud_1.3.1.apk"
+    ]
+  },
+  "jarsigner": "/home/altyb/.local/share/jdks/jdk-21.0.12+8/bin/jarsigner",
+  "keytool": "/home/altyb/.local/share/jdks/jdk-21.0.12+8/bin/keytool",
+  "needsUpdate": [
+    "dev.altayeb.hudhud",
+    "dev.altayeb.shoebill"
+  ],
+  "noPackages": [
+    "dev.altayeb.hudhud",
+    "dev.altayeb.shoebill"
+  ],
+  "noUpdateCheck": [
+    "dev.altayeb.hudhud",
+    "dev.altayeb.shoebill"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1793455801995,
+    "index.make repo": 1793455808317,
+    "prepare_apps repo": 1793455803152,
+    "process_apks": 1793455801995,
+    "read_added_date_from_all_apks": 1793455803152,
+    "remove_apks": 1793455803151,
+    "scan_repo_files": 1793455803151
+  },
+  "startTimestamp": 1793448601000,
+  "subcommand": "update"
+}

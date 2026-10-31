@@ -1,0 +1,261 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Nile Birds"
+    },
+    "description": {
+      "en-US": "Shoebill, a private video player, and Hudhud, a private keyboard. Open source, no ads, no tracking. Same signed APKs as the GitHub releases."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "05f9fde4e314801b27a945c8ecbce514cec3f346556597607e56ba16aacba993",
+        "size": 16221
+      }
+    },
+    "address": "https://altyb.github.io/fdroid/repo",
+    "timestamp": 1793455808000,
+    "categories": {
+      "Keyboard & IME": {
+        "name": {
+          "en-US": "Keyboard & IME"
+        }
+      },
+      "Multimedia": {
+        "name": {
+          "en-US": "Multimedia"
+        }
+      }
+    }
+  },
+  "packages": {
+    "dev.altayeb.hudhud": {
+      "metadata": {
+        "added": 1793455802000,
+        "categories": [
+          "Keyboard & IME"
+        ],
+        "changelog": "https://github.com/altyb/hudhud/blob/main/CHANGELOG.md",
+        "issueTracker": "https://github.com/altyb/hudhud/issues",
+        "lastUpdated": 1793455802000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/altyb/hudhud",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/dev.altayeb.hudhud/en-US/featureGraphic_4xu9jhMFUDT1NmBzaZK5KIuTHGUs5FphDak886uBxJY=.png",
+            "sha256": "e31bbd8e13055034f53660736992b9288b931c652ce45a610da93cf3ab81c496",
+            "size": 31040
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.altayeb.hudhud/en-US/phoneScreenshots/1.png",
+                "sha256": "3c15c33e7da1badd360e17be7247295d499c31ca0f75544b4064fb752bd988a7",
+                "size": 74823
+              },
+              {
+                "name": "/dev.altayeb.hudhud/en-US/phoneScreenshots/2.png",
+                "sha256": "50546dbdcb43e3c1be6a7ad886d5afe343822dfff1ffccdc6a5664e9b43bf903",
+                "size": 87359
+              },
+              {
+                "name": "/dev.altayeb.hudhud/en-US/phoneScreenshots/3.png",
+                "sha256": "ebd353b96bba43b09ce245ccde5b6e35097c594f2953bfd7ae6094a48a3cd673",
+                "size": 53097
+              },
+              {
+                "name": "/dev.altayeb.hudhud/en-US/phoneScreenshots/4.png",
+                "sha256": "60785c1b47e891455c0b599247280460febc2be7ae8b4be3777860320992a1eb",
+                "size": 60675
+              }
+            ]
+          }
+        },
+        "authorName": "Altayeb",
+        "name": {
+          "ar": "Hudhud Keyboard",
+          "en-US": "Hudhud Keyboard"
+        },
+        "summary": {
+          "ar": "لوحة مفاتيح خاصة للعربية والإنجليزية ولغات أخرى مع الكتابة بالسحب ودون إنترنت",
+          "en-US": "Private keyboard for English, Arabic and more, with glide typing and no internet"
+        },
+        "description": {
+          "ar": "لوحة مفاتيح صغيرة لأندرويد بالعربية والإنجليزية. لا تملك إذن الإنترنت، فلا يخرج ما تكتبه من هاتفك.\n\n- الكتابة بالسحب باللغتين دون اتصال\n- اقتراح الكلمات وتوقع الكلمة التالية وتصحيح حذر، والتعلم على الهاتف فقط\n- اضغط مطولاً على المسافة واسحب لتحريك المؤشر، واسحب على زر الحذف لمسح كلمات كاملة\n- وضع اليد الواحدة\n- سجل الحافظة مع التثبيت\n- لوحة إيموجي مع البحث بالاسم بالعربية أو الإنجليزية\n- مفاتيح كلاسيكية طويلة أو ألوان Material You\n- حقول كلمات المرور: لا تعلم ولا سجل، ومخفية عن لقطات الشاشة\n",
+          "en-US": "A small Android keyboard for English and Arabic. It has no internet permission, so nothing you type can leave the phone.\n\n- Glide typing in both languages, offline\n- Word suggestions, next-word prediction and careful autocorrect that learn on the phone only\n- Hold space and drag to move the cursor; slide on delete to remove whole words\n- One-handed mode\n- Clipboard history with pins\n- Emoji panel with search by English or Arabic name\n- Classic tall keys, or Material You colours\n- Password fields: no learning, no history, hidden from screenshots\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/dev.altayeb.hudhud/en-US/icon_cd3olz9EWthgfIGj-ynwuXjZqZ_zHqGQUkkjXndF8dA=.png",
+            "sha256": "71dde8973f445ad8607c81a3fb29f0b978d9a99ff31ea1905249235e7745f1d0",
+            "size": 19559
+          }
+        },
+        "preferredSigner": "12d573f107594582ad3c35212eb027670b3cb86a9a10ff2ebcf0d51ce22f3abc"
+      },
+      "versions": {
+        "d92cba39b000862c1e26116889fc4ffa8e1e4954ed5837ff2a02a589c6544500": {
+          "added": 1793455802000,
+          "file": {
+            "name": "/dev.altayeb.hudhud_1.3.1.apk",
+            "sha256": "d92cba39b000862c1e26116889fc4ffa8e1e4954ed5837ff2a02a589c6544500",
+            "size": 7074690
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.3.1",
+            "versionCode": 8,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "12d573f107594582ad3c35212eb027670b3cb86a9a10ff2ebcf0d51ce22f3abc"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "dev.altayeb.hudhud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "dev.altayeb.shoebill": {
+      "metadata": {
+        "added": 1793421486000,
+        "categories": [
+          "Multimedia"
+        ],
+        "changelog": "https://github.com/altyb/shoebill/blob/main/CHANGELOG.md",
+        "issueTracker": "https://github.com/altyb/shoebill/issues",
+        "lastUpdated": 1793421486000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/altyb/shoebill",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/dev.altayeb.shoebill/en-US/featureGraphic_DHLjP0cNUMrmnhir9Ps7KVf-FVbMdNyFpWPDR2dpXE4=.png",
+            "sha256": "0c72e33f470d50cae69e18abf4fb3b2957fe1556cc74dc85a563c34767695c4e",
+            "size": 25590
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.altayeb.shoebill/en-US/phoneScreenshots/1.png",
+                "sha256": "941b790d24be83dfd6e626411c40e62c0ed5bbfdf66b54f73e1ef6f81570b2f9",
+                "size": 179373
+              },
+              {
+                "name": "/dev.altayeb.shoebill/en-US/phoneScreenshots/2.png",
+                "sha256": "f25db95bfd58041c163f67c4c8b9350f02a08b361e3e9bc9975af49cc6f90149",
+                "size": 228122
+              },
+              {
+                "name": "/dev.altayeb.shoebill/en-US/phoneScreenshots/3.png",
+                "sha256": "3dd59b36803d02241293815cb656f9194a2c3e1cb6995f7c1809cab02252809f",
+                "size": 1338904
+              },
+              {
+                "name": "/dev.altayeb.shoebill/en-US/phoneScreenshots/4.png",
+                "sha256": "e2eff8952bdf99de78930295f3fab773fbb0b0815dbe3b984f791f046358965c",
+                "size": 846194
+              }
+            ]
+          }
+        },
+        "authorName": "Altayeb",
+        "name": {
+          "ar": "Shoebill",
+          "en-US": "Shoebill"
+        },
+        "summary": {
+          "ar": "مشغّل فيديو خاص مع خزنة مشفّرة للفيديوهات والصور",
+          "en-US": "Private mpv video player with an encrypted vault for videos and photos"
+        },
+        "description": {
+          "ar": "مشغّل فيديو خاص مبني على mpv — بدون إعلانات ولا حسابات ولا تتبّع.\n\n- يشغّل تقريباً كل الصيغ: HEVC 10-bit و AV1 و TrueHD و EAC3 وترجمات ASS و PGS والبث عبر الشبكة.\n- الترجمة: بحث في OpenSubtitles و SubDL و Jimaku، وتنسيق كامل (اللون، الحجم، الحدّ، الخلفية)، اسحب الترجمة لتحريكها وكبّرها بإصبعين، ومزامنة يدوية.\n- المشغّل: إيماءات للتقديم والصوت والسطوع، السرعة، المسارات، القفل، صورة داخل صورة، الصوت في الخلفية، الاستكمال من حيث توقفت، قوائم التشغيل.\n- الخزنة: إخفاء الفيديوهات والصور داخل التطبيق بتشفير AES-256-GCM ومفاتيح محفوظة في شريحة أمان الهاتف.\n  - رمز خاص بالخزنة (٤ إلى ١٦ رقماً) منفصل عن قفل الشاشة، والبصمة اختيارية.\n  - رمز وهمي يفتح خزنة ثانية، ورمز مسح يحذف الخزنة الحقيقية.\n  - قفل مؤقت بعد ٥ محاولات خاطئة.\n  - تشغيل الفيديو مباشرة من الملف المشفّر بدون فكّ تشفيره على القرص.\n  - نقل الملف للخزنة يحذفه من المعرض، وإخراجه يعيده لمجلده الأصلي.\n  - نسخة احتياطية مشفّرة بكلمة مرور.\n\nمفتوح المصدر (GPL-3.0): https://github.com/altyb/shoebill\n",
+          "en-US": "\nPlayer\n- Plays what mpv plays: HEVC 10-bit, H.264, VP9, TrueHD/EAC3/DTS, ASS/PGS subtitles, network streams (http, HLS, rtsp).\n- Gestures for seeking, volume and brightness; double-tap to skip; speed; audio and subtitle tracks.\n- Screen lock, picture-in-picture, background audio, resume where you stopped, playlists.\n\nSubtitles\n- Search OpenSubtitles, SubDL and Jimaku (with your own free API keys).\n- Style them: colour, size, outline, background box, bold, presets.\n- Drag a subtitle on screen to move it; pinch it to resize it. Manual timing sync.\n- Old Arabic `windows-1256` files are converted automatically.\n\nVault\n- Hide videos and photos inside the app. Moving a file in removes it from the gallery; moving it out puts it\n  back in its original folder.\n- Its own PIN (4–16 digits), separate from the phone's lock screen. Fingerprint optional.\n- Decoy PIN opens a second vault; wipe PIN erases the real one.\n- 5 wrong PINs lock it (30 s, doubling up to 1 h). Changing the phone's clock does not end the wait.\n- Videos play straight from the encrypted file; nothing decrypted is written to disk.\n- Encrypted backup and restore (`.shoebillvault` file, password-protected).\n- Screenshots and screen recording blocked inside the vault.\n\n\nOpen source (GPL-3.0): https://github.com/altyb/shoebill\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/dev.altayeb.shoebill/en-US/icon_IfkmFVuVulUJPPjHgTFxm8fG5qHpzAgbJQC_Pzkhr7o=.png",
+            "sha256": "21f926155b95ba55093cf8c78131719bc7c6e6a1e9cc081b2500bf3f3921afba",
+            "size": 15573
+          }
+        },
+        "preferredSigner": "aec644ae8138a6fd301903dd153fbc181065e9be245373b48ec5d1e6c6532b75"
+      },
+      "versions": {
+        "7a567caa8a1d3fd1478555466e0407ff0006041d8fdf540a8c4f9b554aa9865c": {
+          "added": 1793421486000,
+          "file": {
+            "name": "/dev.altayeb.shoebill_0.4.0.apk",
+            "sha256": "7a567caa8a1d3fd1478555466e0407ff0006041d8fdf540a8c4f9b554aa9865c",
+            "size": 52105628
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "0.4.0",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "aec644ae8138a6fd301903dd153fbc181065e9be245373b48ec5d1e6c6532b75"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "dev.altayeb.shoebill.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

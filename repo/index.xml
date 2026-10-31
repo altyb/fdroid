@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Nile Birds" pubkey="308204ea308202d2a003020102020900ab9eabd578f4b2ff300d06092a864886f70d01010b050030223120301e060355040313174e696c6520426972647320462d44726f6964207265706f3020170d3236313033313033313234305a180f32303534303331383033313234305a30223120301e060355040313174e696c6520426972647320462d44726f6964207265706f30820222300d06092a864886f70d01010105000382020f003082020a02820201009b716f3755a1f37ec26a3c5921bcc1f0a194b7a506048a7cea5b4e864db0386ef1823e95dfcc80c25a4c9d207bb50087b9af97f375d78dbb4cf4ee2780ab97b63fbba2f4a6fec148df327a714b9c27b2e12da6a4a8494c6b1f106db8ee1a0f16b481db54bb10b86fb33c5f9514313ad2764a1afc48573b5239bd9a8eeba7b4021d7ebd9256330f630def918fc60e0cfff3505e50f061b4225ae094b3b588f8fd71b0055e549bf54551a881cdd618783aa813dba840e24176b1bfde181455e894d17faaea55fdfb8fbee9d22fafab87cab1be2c69c5678c34961ae8fa01f9ab3fc4d8ea9d939f477cb6a301167b0a9d4be398c9115ddeecdc8af200dc074bb9fffd3d91cad77d4d7126b83044d19fc1bc9bb0399b5e633e33f4589efe90fa5d6f5f0c0e433720fda4bacd4783d1e1d24657bfd42c7503d4f49469d3c2c29bbb61f3ea4418c02acc01b985e5981c044399c88c6cce652d8e8147bff0582a876835638e0d217f34c179839c97001035721728ca1a8902f4cb0b6ef7c5e30adf8126cac02d4e53f66c2b724161efd073c58832d3b35c334db1e64c6ccae610de900db7f26156f153ceb8ce5d8e427761a3d23379e64087ddac2bc28444deb5383e829659f04787af7a718eb6bdb5881a2363de0339c6bc7621d6dd37e64a81090c54020ee901ffd1a304829015ac8149c97df67742b893eb6ce9c7dec377ce33fee10203010001a321301f301d0603551d0e04160414576e830c3cc288d7cc7398b02c342ddfc2856d42300d06092a864886f70d01010b05000382020100064f6f26677b3ec0072a39ece6b9d55c8fd7e5f50fc687ecfa110af59f0e3d73b9afecfcc33ca0279077e9fa8ccf7771ae88b6250aa378b4b245bf9c70cd580e3471b24a1a746ff3d0a97784725587ffe9e141f630a9cfbf46fe7e4c364d553d98e196ab61088ef736bcf9407b0a88a21d9f2668240b3270f148e1e332d0b842fbde6290f28b1f088c5805799c454d7f53230780bd442aceb2796d8cd4be7d422f810b7ceb65057304b0a7aa2ed138b408481f287e14107bea6bc1d7b4bb479adc8bcae12e53fd91d22c8d6e3c8a64d5e55caa0402b76ddcd5796fcc6d29b470b9bea9fd73008e38e4ee8b946a4984b8d3125cbe0b42659de1657ce788a5e8c70e451a29e737321dda3a1418ffa0ed4d89dc2e6b3b7a4b796aec33bab11577b63a8f047aee354f0c1159c8bef68c57b0146ccb03e7738fd01fe42c6e332f5c6808ef79f974596b2d2c5356494a8af2d75bb0074680f93e8a96917dd511cbc8603bfbb5ab2691d0742934c26c4d8509cd747e97856dcc227733d010931e3293262eb7440d989d6daa02c401ef78310b9b4a81ced83a43d49763897df6d699d0077a4a20c1003ace22228f9468974eb2f42603631d112867e927428a0a6ee490654ba7606551f377ba6e11824c4f43fc950c4ca28a6e7d63897dcf62cede2656ef87383cf755581ac011e81c53f65c06509afce0580ce529f47e8edd464df37964" timestamp="1793455808" url="https://altyb.github.io/fdroid/repo" version="20002">
+		<description>Shoebill, a private video player, and Hudhud, a private keyboard. Open source, no ads, no tracking. Same signed APKs as the GitHub releases.</description>
+	</repo>
+	<application id="dev.altayeb.hudhud">
+		<id>dev.altayeb.hudhud</id>
+		<added>2026-10-31</added>
+		<lastupdated>2026-10-31</lastupdated>
+		<name>Hudhud Keyboard</name>
+		<summary>Private keyboard for English, Arabic and more, with glide typing and no internet</summary>
+		<desc>A small Android keyboard for English and Arabic. It has no internet permission, so nothing you type can leave the phone.
+
+- Glide typing in both languages, offline
+- Word suggestions, next-word prediction and careful autocorrect that learn on the phone only
+- Hold space and drag to move the cursor; slide on delete to remove whole words
+- One-handed mode
+- Clipboard history with pins
+- Emoji panel with search by English or Arabic name
+- Classic tall keys, or Material You colours
+- Password fields: no learning, no history, hidden from screenshots
+</desc>
+		<license>Apache-2.0</license>
+		<categories>Keyboard &amp; IME</categories>
+		<category>Keyboard &amp; IME</category>
+		<web></web>
+		<source>https://github.com/altyb/hudhud</source>
+		<tracker>https://github.com/altyb/hudhud/issues</tracker>
+		<changelog>https://github.com/altyb/hudhud/blob/main/CHANGELOG.md</changelog>
+		<author>Altayeb</author>
+		<marketversion></marketversion>
+		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.3.1</version>
+			<versioncode>8</versioncode>
+			<apkname>dev.altayeb.hudhud_1.3.1.apk</apkname>
+			<hash type="sha256">d92cba39b000862c1e26116889fc4ffa8e1e4954ed5837ff2a02a589c6544500</hash>
+			<size>7074690</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-10-31</added>
+			<sig>69c92956fd1c7e8544de56d6ccfb7267</sig>
+			<permissions>READ_CONTACTS,dev.altayeb.hudhud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="dev.altayeb.shoebill">
+		<id>dev.altayeb.shoebill</id>
+		<added>2026-10-31</added>
+		<lastupdated>2026-10-31</lastupdated>
+		<name>Shoebill</name>
+		<summary>Private mpv video player with an encrypted vault for videos and photos</summary>
+		<desc>
+Player
+- Plays what mpv plays: HEVC 10-bit, H.264, VP9, TrueHD/EAC3/DTS, ASS/PGS subtitles, network streams (http, HLS, rtsp).
+- Gestures for seeking, volume and brightness; double-tap to skip; speed; audio and subtitle tracks.
+- Screen lock, picture-in-picture, background audio, resume where you stopped, playlists.
+
+Subtitles
+- Search OpenSubtitles, SubDL and Jimaku (with your own free API keys).
+- Style them: colour, size, outline, background box, bold, presets.
+- Drag a subtitle on screen to move it; pinch it to resize it. Manual timing sync.
+- Old Arabic `windows-1256` files are converted automatically.
+
+Vault
+- Hide videos and photos inside the app. Moving a file in removes it from the gallery; moving it out puts it
+  back in its original folder.
+- Its own PIN (4–16 digits), separate from the phone's lock screen. Fingerprint optional.
+- Decoy PIN opens a second vault; wipe PIN erases the real one.
+- 5 wrong PINs lock it (30 s, doubling up to 1 h). Changing the phone's clock does not end the wait.
+- Videos play straight from the encrypted file; nothing decrypted is written to disk.
+- Encrypted backup and restore (`.shoebillvault` file, password-protected).
+- Screenshots and screen recording blocked inside the vault.
+
+
+Open source (GPL-3.0): https://github.com/altyb/shoebill
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web></web>
+		<source>https://github.com/altyb/shoebill</source>
+		<tracker>https://github.com/altyb/shoebill/issues</tracker>
+		<changelog>https://github.com/altyb/shoebill/blob/main/CHANGELOG.md</changelog>
+		<author>Altayeb</author>
+		<marketversion></marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>5</versioncode>
+			<apkname>dev.altayeb.shoebill_0.4.0.apk</apkname>
+			<hash type="sha256">7a567caa8a1d3fd1478555466e0407ff0006041d8fdf540a8c4f9b554aa9865c</hash>
+			<size>52105628</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-10-31</added>
+			<sig>b75191b7f55c6c265120ed731c9cfa72</sig>
+			<permissions>CHANGE_WIFI_MULTICAST_STATE,INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,USE_BIOMETRIC,USE_FINGERPRINT,dev.altayeb.shoebill.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>
